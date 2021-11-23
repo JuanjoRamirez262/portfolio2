@@ -1,0 +1,16 @@
+.project-image {
+    max-width: 400px;
+    max-height: 400px;
+}
+.card {
+    width: 18rem;
+    margin-top: 10px;
+}
+
+.card-container{
+    justify-content: center;
+}
+
+.card-body{
+    background-color: #D4D2A5;
+}

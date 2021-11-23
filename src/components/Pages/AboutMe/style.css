@@ -1,0 +1,13 @@
+.profile-picture {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.headers1 {
+    margin-top: 25px;
+}
+
+.headers2 {
+    font-size: 130%;
+    /* color:; */
+}
